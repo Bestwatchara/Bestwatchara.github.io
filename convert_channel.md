@@ -4,7 +4,7 @@ CISSP <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glossary - An information flow that is not controlled by a security control and has the opportunity of disclosing confidential information.
 | Chatgpt | Gemini |
 |----------|----------|
-| การไหลของข้อมูลที่ไม่ได้ถูกควบคุมโดยมาตรการความปลอดภัย และมีโอกาสที่จะเปิดเผยข้อมูลลับได้ | การไหลของข้อมูลที่ไม่มีการควบคุมด้านความปลอดภัย และมีโอกาสเปิดเผยข้อมูลลับ<br>ช่องโหว่ในการไหลของข้อมูลที่อาจนำไปสู่การเปิดเผยข้อมูลสำคัญ<br>การรั่วไหลของข้อมูลที่เกิดจากการขาดระบบควบคุมความปลอดภัย |
+| การไหลของข้อมูลที่ไม่ได้ถูกควบคุมโดยมาตรการความปลอดภัย และมีโอกาสที่จะเปิดเผยข้อมูลลับได้ | การไหลของข้อมูลที่ไม่มีการควบคุมด้านความปลอดภัย และมีโอกาสเปิดเผยข้อมูลลับ |
 
 NIST <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Definitions : An unintended or unauthorized intra-system channel that enables two cooperating entities to transfer information 
