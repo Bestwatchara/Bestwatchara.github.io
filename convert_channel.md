@@ -2,7 +2,7 @@
 
 NIST
 | Definition | Chatgpt | Gemini |
-|----------|----------|----------|
+|------ghjg----|----------|----------|
 | Definitions : An unintended or unauthorized intra-system channel that enables two cooperating entities to transfer information 
 in a way that violates the system's security policy but does not exceed the entities
 access authorizations. | Row 1, Col 2 | Row 1, Col 3 |
