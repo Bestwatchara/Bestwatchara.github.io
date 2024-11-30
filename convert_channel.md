@@ -5,6 +5,7 @@ CISSP <br>
 | Chatgpt | Gemini |
 |----------|----------|
 | การไหลของข้อมูลที่ไม่ได้ถูกควบคุมโดยมาตรการความปลอดภัย และมีโอกาสที่จะเปิดเผยข้อมูลลับได้ | "การไหลของข้อมูลที่ไม่มีการควบคุมด้านความปลอดภัย และมีโอกาสเปิดเผยข้อมูลลับ""ช่องโหว่ในการไหลของข้อมูลที่อาจนำไปสู่การเปิดเผยข้อมูลสำคัญ""การรั่วไหลของข้อมูลที่เกิดจากการขาดระบบควบคุมความปลอดภัย" |
+
 NIST <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Definitions : An unintended or unauthorized intra-system channel that enables two cooperating entities to transfer information 
 in a way that violates the system's security policy but does not exceed the entities' access authorizations.
