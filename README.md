@@ -7,4 +7,4 @@
 
 ![my picture](./img/S__58916922.jpg)
 
-[covert_channel](covert_channel.md)
+[covert-channel](covert-channel.md)
