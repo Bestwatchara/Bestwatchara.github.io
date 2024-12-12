@@ -1,4 +1,4 @@
-# Convert Channel
+# Covert Channel
 
 CISSP <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glossary - An information flow that is not controlled by a security control and has the opportunity of disclosing confidential information.
