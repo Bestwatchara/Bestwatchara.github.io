@@ -8,3 +8,5 @@
 ![my picture](./img/S__58916922.jpg)
 
 [covert-channel](covert-channel.md)
+
+[Christmas and New Year 2025](e-card.md)
