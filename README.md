@@ -11,4 +11,4 @@
 
 [Christmas and New Year 2025](e-card.md)
 
-[Timeliness(timeliness.md)
+[Timeliness](timeliness.md)
