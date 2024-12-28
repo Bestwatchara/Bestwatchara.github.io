@@ -7,6 +7,6 @@
 
 ![my picture](./img/best.jpg)
 
-[covert-channel](covert-channel.md)
+[Covert-Channel](covert-channel.md)
 
 [Christmas and New Year 2025](e-card.md)
