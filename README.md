@@ -5,7 +5,7 @@
 - I love corgi
 - I very love corgi
 
-![my picture](./img/S__58916922.jpg)
+![my picture](./img/best.jpg)
 
 [covert-channel](covert-channel.md)
 
