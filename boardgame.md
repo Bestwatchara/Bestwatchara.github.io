@@ -16,8 +16,12 @@
 
 ###### เพื่อนร่วมอุดมการณ์
 
-[Rattanapong Muangkrathok](https://rattanapong7.github.io/boardgame)
+-[Rattanapong Muangkrathok](https://rattanapong7.github.io/boardgame)  
 
-[Pongpipat Kumchoo](https://6530200711.github.io/Boardgame)
+-[Watcharakorn Rassameedit](https://bestwatchara.github.io/boardgame)  
 
-[Chaiyaporn Poonsawat](https://lnwnott.github.io/boardgame)
+-[Chaiyaporn Poolsawat](https://lnwnott.github.io/boardgame)  
+
+-[Phakkawat Jitponsup](https://pondxd.github.io/boardgame)  
+
+-[Nattanun Kmoldejritta](https://tnattanun.github.io/BoardGame)
