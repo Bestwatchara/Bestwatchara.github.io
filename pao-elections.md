@@ -1,0 +1,7 @@
+![image](https://github.com/user-attachments/assets/594676bd-f31c-46af-8fb1-499105eea86d)# 2025 Pao Elections
+
+### การเลือกตั้ง สมาชิกสภาองค์การบริหารส่วนจังหวัด และนายกองค์การบริหารส่วนจังหวัดระยอง
+วันเสาร์ ที่ 1 กุมภาพันธ์ พ.ศ. 2568
+สถานที่เลือกตั้ง : เทศบาลตำบลบ้านฉาง จังหวัดระยอง
+
+![image](https://github.com/user-attachments/assets/99ad161a-6ef7-4524-9a9d-c03c45be9ac9)
