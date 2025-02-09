@@ -11,3 +11,5 @@ Source : [https://wiki.owasp.org/images/d/d4/OWASP_Application_Security_Verifica
 
 **ตัวอย่างการใช้ชีวิตประจำวัน**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 การตรวจสอบคู่มือการใช้งานแอปธนาคารว่าอธิบายวิธีทำธุรกรรมและมาตรการรักษาความปลอดภัยครบถ้วนหรือไม่
+
+[Rattanapong Muangkrathok](https://rattanapong7.github.io/security-requirement)
