@@ -16,3 +16,5 @@
 [BoardGame](boardgame.md)
 
 [Security-Requirement](security-requirement.md)
+
+[Pao Elections](pao-elections.md)
