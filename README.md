@@ -7,7 +7,7 @@
 
 ![my picture](./img/best.jpg)
 
-[Covert-Channel](covert-channel.md)
+[Covert Channel](covert-channel.md)
 
 [Christmas and New Year 2025](e-card.md)
 
@@ -15,6 +15,8 @@
 
 [BoardGame](boardgame.md)
 
-[Security-Requirement](security-requirement.md)
+[Security Requirement](security-requirement.md)
 
 [Pao Elections](pao-elections.md)
+
+[Security Control](security-control.md)
